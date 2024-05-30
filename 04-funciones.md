@@ -24,17 +24,14 @@
   ```
 
 **Ejercicio 3:**
-- **Ejercicio:** Escribe una función `factorial(n)` que tome un número y devuelva su factorial.
+- **Ejercicio:** Escribe una función mayusculas(cadena) que tome una cadena de texto y devuelva la cadena en mayúsculas.
 - **Solución:**
   ```python
-  def factorial(n):
-      if n == 0:
-          return 1
-      else:
-          return n * factorial(n - 1)
+  def mayusculas(cadena):
+    return cadena.upper()
 
-  numero = 5
-  print(f"El factorial de {numero} es: {factorial(numero)}")
+  print(mayusculas("hola mundo"))  # HOLA MUNDO
+
   ```
 
 **Ejercicio 4:**
