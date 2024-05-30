@@ -28,7 +28,7 @@
 - **Solución:**
   ```python
   def mayusculas(cadena):
-    return cadena.upper()
+      return cadena.upper()
 
   print(mayusculas("hola mundo"))  # HOLA MUNDO
 
