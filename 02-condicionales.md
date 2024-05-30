@@ -1,4 +1,5 @@
 # Ejercicios de Python para aprender a usar Estructuras condicionales
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
 
 **Ejercicio 1:**
 - **Ejercicio:** Escribe un programa que determine si un número es positivo, negativo o cero.
@@ -63,3 +64,4 @@
   ```
 
 
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
