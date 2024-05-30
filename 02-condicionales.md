@@ -2,7 +2,7 @@
 [Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
 
 **Ejercicio 1:**
-- **Ejercicio:** Escribe un programa que determine si un número es positivo, negativo o cero.
+- **Ejercicio:** Escribe unas líneas de código que determinen si un número es positivo, negativo o cero.
 - **Solución:**
   ```python
   numero = float(input("Introduce un número: "))
@@ -15,7 +15,7 @@
   ```
 
 **Ejercicio 2:**
-- **Ejercicio:** Escribe un programa que determine si un año es bisiesto. Un año es bisiesto si es divisible por 4, pero no por 100, excepto si es divisible por 400.
+- **Ejercicio:** Escribe un script que determine si un año es bisiesto. **Nota**: un año es bisiesto si es divisible por 4, pero no por 100, excepto si es divisible por 400.
 - **Solución:**
   ```python
   año = int(input("Introduce un año: "))
@@ -26,7 +26,7 @@
   ```
 
 **Ejercicio 3:**
-- **Ejercicio:** Escribe un programa que tome una letra como entrada y determine si es una vocal o una consonante.
+- **Ejercicio:** Escribe un script que tome una letra como entrada y determine si es una vocal o una consonante.
 - **Solución:**
   ```python
   letra = input("Introduce una letra: ").lower()
@@ -53,7 +53,7 @@
   ```
 
 **Ejercicio 5:**
-- **Ejercicio:** Escribe un programa que determine si una persona es mayor de edad (18 años o más).
+- **Ejercicio:** Escribe un programa que determine si una persona es mayor de edad (18 años o más) usando los datos de entrada del terminal.
 - **Solución:**
   ```python
   edad = int(input("Introduce tu edad: "))
