@@ -1,4 +1,5 @@
 # Ejercicios de Python para aprender a implementar funciones
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
 
 **Ejercicio 1:**
 - **Ejercicio:** Escribe una función `suma(a, b)` que tome dos números y devuelva su suma.
@@ -60,3 +61,5 @@
   numeros = [3, 5, 7, 2, 8]
   print(f"El número más grande es: {maximo(numeros)}")
   ```
+
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
