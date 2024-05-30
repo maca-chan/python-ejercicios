@@ -1,4 +1,5 @@
 # Ejercicios de Python para aprender a usar Bucles for y while
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
 
 **Ejercicio 1:**
 - **Ejercicio:** Usa un bucle `for` para imprimir los números del 1 al 5.
@@ -48,3 +49,4 @@
           print(i)
   ```
 
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
