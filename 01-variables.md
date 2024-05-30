@@ -1,6 +1,5 @@
-# Ejercicios de Python para aprender a trabajar con variables
-
-## 1) Estructuras de datos (listas y diccionarios)
+# Ejercicios de Python para aprender a trabajar con Estructuras de datos complejos
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
 
 **Ejercicio 1:**
 - **Ejercicio:** Crea una lista con los números del 1 al 10. Imprime la lista.
@@ -48,4 +47,4 @@
   lista.sort()
   print(lista)
   ```
-
+[Volver a la página del temario](https://github.com/maca-chan/python-ejercicios/tree/main)
