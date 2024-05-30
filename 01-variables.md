@@ -10,7 +10,7 @@
   ```
 
 **Ejercicio 2:**
-- **Ejercicio:** Dada una lista de nombres `["Ana", "Luis", "Carlos", "María"]`, agrega el nombre "Jorge" al final de la lista. Imprime la lista actualizada.
+- **Ejercicio:** Dada una lista con los nombres `"Ana", "Luis", "Carlos", "María"`, agrega el nombre "Jorge" al final de la lista. Imprime la lista actualizada.
 - **Solución:**
   ```python
   nombres = ["Ana", "Luis", "Carlos", "María"]
